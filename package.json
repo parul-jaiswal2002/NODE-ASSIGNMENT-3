@@ -1,0 +1,16 @@
+{
+  "name": "assignment_3",
+  "version": "1.0.0",
+  "description": "\"some descirption\"",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Parul jaiswal\"",
+  "license": "ISC",
+  "dependencies": {
+    
+    "nodemon": "^2.0.20"
+  }
+}
